@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamersGateScraperLibrary", "GamersGateScraperLibrary\GamersGateScraperLibrary.csproj", "{A5E7FA81-D70F-4941-B20A-C1BB9CD42D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{F61419FC-FC6C-4B27-9847-F0DDB34FE20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E7FA81-D70F-4941-B20A-C1BB9CD42D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E7FA81-D70F-4941-B20A-C1BB9CD42D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E7FA81-D70F-4941-B20A-C1BB9CD42D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E7FA81-D70F-4941-B20A-C1BB9CD42D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61419FC-FC6C-4B27-9847-F0DDB34FE20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61419FC-FC6C-4B27-9847-F0DDB34FE20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61419FC-FC6C-4B27-9847-F0DDB34FE20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61419FC-FC6C-4B27-9847-F0DDB34FE20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
